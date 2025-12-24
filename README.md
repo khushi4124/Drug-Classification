@@ -21,22 +21,8 @@ The model achieved 100% accuracy on the test set.
 
 **Performance Summary**
 
-The classification report shows perfect precision and recall for all five drug classes (A, B, C, X, and Y).
+The confusion matrix shows perfect precision and recall for all five drug classes (A, B, C, X, and Y).
 
-  precision    recall  f1-score   support
-
-           A       1.00      1.00      1.00         6
-           B       1.00      1.00      1.00         3
-           C       1.00      1.00      1.00         5
-           X       1.00      1.00      1.00        11
-           Y       1.00      1.00      1.00        15
-
-    accuracy                           1.00        40
-   macro avg       1.00      1.00      1.00        40
-weighted avg       1.00      1.00      1.00        40
-
-<img width="499" height="432" alt="image" src="https://github.com/user-attachments/assets/c499c6a6-e8c5-403c-b7e6-c156d20b4852" />
-
-
+ <img width="499" height="432" alt="image" src="https://github.com/user-attachments/assets/c499c6a6-e8c5-403c-b7e6-c156d20b4852" />
 
 <img width="950" height="636" alt="image" src="https://github.com/user-attachments/assets/8155688a-0465-4442-9f5c-2d4806a751ca" />
